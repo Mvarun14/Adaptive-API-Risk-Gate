@@ -3,7 +3,7 @@
 An async, behavior-aware traffic control system that dynamically reshapes API traffic
 based on real-time risk signals to prevent cascading failures during partial outages.
 
-## Why this project exists
+## Why this project?
 Traditional rate limiters and API gateways rely on static thresholds.
 This system adapts traffic decisions based on:
 - Behavioral anomalies
